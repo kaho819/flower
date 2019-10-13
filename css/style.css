@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+  color: #FFFFFF;
+  font-family: "Noto Sans JP", sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: bottom;
+  background-image: url(../img/bg_header.jpg);
+}
+
+header .concept .header_top img{
+  width: 132px;
+  height: 115px;
+  top: 150px;
+  margin-top: 150px;
+}
+
+header h1 {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  margin-bottom: 30px;
+}
+
+.btn-appstore {
+  width: 200px;
+  height: 60px;
+  display: inline-block;
+  background-image: url(https://linkmaker.itunes.apple.com/ja-jp/badge-lrg.svg?releaseDate=2019-02-18&kind=iossoftware&bubble=ios_apps);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header .concept .note {
+  margin-top: 180px;
+  margin-bottom: 50px;
+}
+
+header p {
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  margin: 0;
+}
